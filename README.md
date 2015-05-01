@@ -1,2 +1,3 @@
-# explore_git
-explore github
+# Exploring Github!
+Welcome
+
